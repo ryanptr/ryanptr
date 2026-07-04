@@ -37,8 +37,15 @@ Mahasiswa Teknik Informatika dan Teknisi Komputer. Saya memiliki minat besar pad
 </p>
 
 ---
+
+### 🐍 Animasi Kontribusi:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryanptr/ryanptr/output/github-snake-dark.svg" alt="snake" />
+</p>
+
+---
 ### 📫 Mari Terhubung:
-*   **Business:** [Please Phone - Mranggen]
+*   **Business:** [Please Phone - Mranggen](https://wa.me/6285878143481)
 *   **University:** Universitas Semarang (USM)
 
 *Selalu terbuka untuk diskusi teknis, kolaborasi proyek, maupun bantuan teknis komputer.*
