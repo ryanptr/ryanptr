@@ -27,17 +27,6 @@ Mahasiswa Teknik Informatika dan Teknisi Komputer. Saya memiliki minat besar pad
 
 ---
 
-### 🏆 GitHub Trophies:
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryanptr&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Statistik GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanptr&show_icons=true&theme=radical&hide_border=true" alt="Ryan's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanptr&layout=compact&theme=radical&hide_border=true" alt="Ryan's top langs" />
-</p>
-
----
-
 ### 🐍 Animasi Kontribusi:
 <p align="center">
   <img src="https://raw.githubusercontent.com/ryanptr/ryanptr/output/github-snake-dark.svg" alt="snake" />
